@@ -31,7 +31,12 @@
 	
 	
 </head>
+<<<<<<< HEAD
 <body>		
+													<!--Hello new branch *******************************-->
+=======
+<body>																					<!--Branch master*******************-->
+>>>>>>> master
 <div class="scroller"></div>
 <div class="page">
     <div class="screen_1_gallery">
@@ -43,7 +48,13 @@
                         <a class="fb"></a>
                         <a class="ig"></a>
                         <a class="tv"></a>
-      
+                    </div>
+                    <a class="top_mail">vidkondi.yz@gmail.com</a>
+                </div>
+                <div class="phone_block">
+                    <a class="phone_link">+7 (926) 020-7271</a>
+                    <a class="phone_btn link_1">
+                        <i>Oбратный звонок</i>
                     </a>
                 </div>
             </header>
